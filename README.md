@@ -75,7 +75,7 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 ## 📅 Cronograma
 04/04 (Sex) - Apresentação da disciplina. [[slides](https://drive.google.com/file/d/10BbSSufUcQi9JJdnRIOwuYi1SbHY920c/view?usp=drive_link)] [[video](https://www.youtube.com/watch?v=nt7JqivQsW0)] :white_check_mark:  
 08/04 (Ter) - Introdução ao algoritmo. [[slides](https://drive.google.com/file/d/19PPMpUw5tUFoAY73xHk5ccIhI9YKBREu/view?usp=sharing)][[atividade](https://classroom.github.com/a/tWLkEBJN)]  
-11/04 (Sex) - Variável e tipo de dados. [slides] [atividade]  
+11/04 (Sex) - Variável e tipo de dados. [[slides](https://drive.google.com/file/d/19h5v5yZWKlgtVKqozDhpHRAHpHpeM420/view?usp=sharing)] [[atividade](https://drive.google.com/file/d/1BsCBnRC-vMPu828MnM8rlGBFu1DT2bv5/view?usp=sharing)]  
 12/04 (Sab) - Correção da atividade.  
 15/04 (Ter) - Entrada de dados. [slides] [atividades]  
 ~~18/04 (Sex) - Feriado.~~  
