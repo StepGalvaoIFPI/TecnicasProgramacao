@@ -73,54 +73,53 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 
 
 ## 📅 Cronograma
-04/04 (Sex) - Apresentação da disciplina. [[slides](https://drive.google.com/file/d/10BbSSufUcQi9JJdnRIOwuYi1SbHY920c/view?usp=drive_link)] [[video](https://www.youtube.com/watch?v=nt7JqivQsW0)] :white_check_mark:  
-08/04 (Ter) - Introdução ao algoritmo. [[slides](https://drive.google.com/file/d/19PPMpUw5tUFoAY73xHk5ccIhI9YKBREu/view?usp=sharing)][[atividade](https://classroom.github.com/a/tWLkEBJN)] :white_check_mark:   
-11/04 (Sex) - Variável e tipo de dados. [[slides](https://drive.google.com/file/d/19h5v5yZWKlgtVKqozDhpHRAHpHpeM420/view?usp=sharing)] [[atividade](https://drive.google.com/file/d/1BsCBnRC-vMPu828MnM8rlGBFu1DT2bv5/view?usp=sharing)] :white_check_mark:   
-12/04 (Sab) - Correção da atividade. :white_check_mark:  
-15/04 (Ter) - Entrada de dados. [[slides](https://drive.google.com/file/d/1Cwl4Syhzik7vERQ1HpAp6FK-EzNiuTvG/view?usp=sharing)] [[atividades](https://drive.google.com/file/d/1Cz25vOi4RmkweFd9jFT91EINomx1FL-C/view?usp=sharing)]  
-~~18/04 (Sex) - Feriado.~~  
-22/04 (Ter) - Correção da atividade & Revisão.  
-**25/04 (Sex) -  Primeira Avaliação.** 
+:white_check_mark: 04/04 (Sex) - Apresentação da disciplina. [[slides](https://drive.google.com/file/d/10BbSSufUcQi9JJdnRIOwuYi1SbHY920c/view?usp=drive_link)] [[video](https://www.youtube.com/watch?v=nt7JqivQsW0)]   
+:white_check_mark: 08/04 (Ter) - Introdução ao algoritmo. [[slides](https://drive.google.com/file/d/19PPMpUw5tUFoAY73xHk5ccIhI9YKBREu/view?usp=sharing)][[atividade](https://classroom.github.com/a/tWLkEBJN)]    
+:white_check_mark: 11/04 (Sex) - Variável e tipo de dados. [[slides](https://drive.google.com/file/d/19h5v5yZWKlgtVKqozDhpHRAHpHpeM420/view?usp=sharing)] [[atividade](https://drive.google.com/file/d/1BsCBnRC-vMPu828MnM8rlGBFu1DT2bv5/view?usp=sharing)]   
+:white_check_mark: 12/04 (Sab) - Correção da atividade.  
+:black_square_button: 15/04 (Ter) - Entrada de dados. [[slides](https://drive.google.com/file/d/1Cwl4Syhzik7vERQ1HpAp6FK-EzNiuTvG/view?usp=sharing)] [[atividades](https://drive.google.com/file/d/1Cz25vOi4RmkweFd9jFT91EINomx1FL-C/view?usp=sharing)]  
+:black_square_button: ~~18/04 (Sex) - Feriado.~~  
+:black_square_button: 22/04 (Ter) - Correção da atividade & Revisão.  
+:black_square_button: **25/04 (Sex) -  Primeira Avaliação.** 
 
-29/04 (Ter) - Condicional IF e IF..ELSE.  
-02/05 (Sex) - Correção da Atividade. \
-06/05 (Ter) - Atividade em Sala. \
-09/05 (Sex) - Estrutura aninhadas. \
-10/05 (Sab) - Correção da Atividade. \
-13/05 (Ter) - Revisão.\
-**16/05 (Sex) - Segunda avaliação**
+:black_square_button: 02/05 (Sex) - Correção da Atividade. \
+:black_square_button: 06/05 (Ter) - Atividade em Sala. \
+:black_square_button: 09/05 (Sex) - Estrutura aninhadas. \
+:black_square_button: 10/05 (Sab) - Correção da Atividade. \
+:black_square_button: 13/05 (Ter) - Revisão.\
+:black_square_button: **16/05 (Sex) - Segunda avaliação**
 
 
-20/05 (Ter) - Estrutura de Repetição: While. \
-23/05 (Sex) - Correção da Atividade. \
-27/05 (Ter) - Estrutura de Repetição: For. \
-30/05 (Sex) - Correção da Atividade. \
-03/06 (Ter) - Acumuladores. \
-06/06 (Sex) - Correção da Atividade. \
-**10/06 (Ter) - Terceira avaliação**
+:black_square_button: 20/05 (Ter) - Estrutura de Repetição: While. \
+:black_square_button: 23/05 (Sex) - Correção da Atividade. \
+:black_square_button: 27/05 (Ter) - Estrutura de Repetição: For. \
+:black_square_button: 30/05 (Sex) - Correção da Atividade. \
+:black_square_button: 03/06 (Ter) - Acumuladores. \
+:black_square_button: 06/06 (Sex) - Correção da Atividade. \
+:black_square_button: **10/06 (Ter) - Terceira avaliação**
 
-13/06 (Sex) - Lista: criação e manipulação.  
-17/06 (Ter) - Correção da atividade.  
-~~20/06 (Sex) - Feriado~~  
-24/06 (Ter) - Operações em lista.  
-27/06 (Sex) - Correção da atividade.  
-28/06 (Sab) - Atividade em classe.  
-01/07 (Ter) - Percorrendo lista.  
-04/07 (Sex) - Correção da atividade  
-05/07 (Sab) - Revisão.  
-**08/07 (Ter) - Quarta avaliação**  
+:black_square_button: 13/06 (Sex) - Lista: criação e manipulação.  
+:black_square_button: 17/06 (Ter) - Correção da atividade.  
+:black_square_button: ~~20/06 (Sex) - Feriado~~  
+:black_square_button: 24/06 (Ter) - Operações em lista.  
+:black_square_button: 27/06 (Sex) - Correção da atividade.  
+:black_square_button: 28/06 (Sab) - Atividade em classe.  
+:black_square_button: 01/07 (Ter) - Percorrendo lista.  
+:black_square_button: 04/07 (Sex) - Correção da atividade  
+:black_square_button: 05/07 (Sab) - Revisão.  
+:black_square_button: **08/07 (Ter) - Quarta avaliação**  
 
-11/07 (Sex) - Funcão: definição e execução.  
-14/07 (Sab) - Correção da Atividade.  
-15/07 (Ter) - Função:Parâmentros.  
-18/07 (Sex) - Correção da atividade.  
-22/07 (Ter) - Função: com retorno.   
-~~25/07 (Sex) - Pessoal.~~  
-29/07 (Ter) - Correção da atividade.  
-01/08 (Sex) - Variavel global e local.  
-05/08 (Ter) - Correção da atividade.  
-**08/08 (Sex) - Quinta Avaliação**\
-**12/08 (Ter) - Prova Final**
+:black_square_button: 11/07 (Sex) - Funcão: definição e execução.  
+:black_square_button: 14/07 (Sab) - Correção da Atividade.  
+:black_square_button: 15/07 (Ter) - Função:Parâmentros.  
+:black_square_button: 18/07 (Sex) - Correção da atividade.  
+:black_square_button: 22/07 (Ter) - Função: com retorno.   
+:black_square_button: ~~25/07 (Sex) - Pessoal.~~  
+:black_square_button: 29/07 (Ter) - Correção da atividade.  
+:black_square_button: 01/08 (Sex) - Variavel global e local.  
+:black_square_button: 05/08 (Ter) - Correção da atividade.  
+:black_square_button: **08/08 (Sex) - Quinta Avaliação**\
+:black_square_button: **12/08 (Ter) - Prova Final**
 
 ---
 ## :rocket: Projetos ( :construction: Em construção)  
