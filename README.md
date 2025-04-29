@@ -77,13 +77,16 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 08/04 (Ter) - Introdução ao algoritmo. [[slides](https://drive.google.com/file/d/19PPMpUw5tUFoAY73xHk5ccIhI9YKBREu/view?usp=sharing)][[atividade](https://classroom.github.com/a/tWLkEBJN)]    
 :white_check_mark: 11/04 (Sex) - Variável e tipo de dados. [[slides](https://drive.google.com/file/d/19h5v5yZWKlgtVKqozDhpHRAHpHpeM420/view?usp=sharing)] [[atividade](https://drive.google.com/file/d/1BsCBnRC-vMPu828MnM8rlGBFu1DT2bv5/view?usp=sharing)][[Entrega](https://classroom.github.com/a/2E1SajXy)]   
 :white_check_mark: 12/04 (Sab) - Correção da atividade.  
-:black_square_button: 15/04 (Ter) - Entrada de dados. [[slides](https://drive.google.com/file/d/1Cwl4Syhzik7vERQ1HpAp6FK-EzNiuTvG/view?usp=sharing)] [[atividades](https://drive.google.com/file/d/1Cz25vOi4RmkweFd9jFT91EINomx1FL-C/view?usp=sharing)]  
-:black_square_button: ~~18/04 (Sex) - Feriado.~~  
-:black_square_button: 22/04 (Ter) - Correção da atividade & Revisão.  
-:black_square_button: **25/04 (Sex) -  Primeira Avaliação.** 
+:white_check_mark: 15/04 (Ter) - Entrada de dados. [[slides](https://drive.google.com/file/d/1Cwl4Syhzik7vERQ1HpAp6FK-EzNiuTvG/view?usp=sharing)] [[atividades](https://drive.google.com/file/d/1Cz25vOi4RmkweFd9jFT91EINomx1FL-C/view?usp=sharing)]  
+:white_check_mark: ~~18/04 (Sex) - Feriado.~~  
+:white_check_mark: 22/04 (Ter) - Correção da atividade & Revisão.  
+:white_check_mark: **25/04 (Sex) -  Primeira Avaliação.** 
 
-:black_square_button: 02/05 (Sex) - Correção da Atividade. \
-:black_square_button: 06/05 (Ter) - Atividade em Sala. \
+:white_check_mark: 29/04 (Ter) - Correção da Prova e Estrutura condicional. 
+[[slides](https://drive.google.com/file/d/1HL6mO-cjFkyG0kPh0lx9DvZLW6YUx1NG/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1HTUmAsJJpelGnAoL4mPOyxJbEIKcEs-A/view?usp=sharing)] \
+~~:white_check_mark: 02/05 (Sex) - Feriado.~~ \
+:white_check_mark: 06/05 (Ter) - Correção das Atividades. \
 :black_square_button: 09/05 (Sex) - Estrutura aninhadas. \
 :black_square_button: 10/05 (Sab) - Correção da Atividade. \
 :black_square_button: 13/05 (Ter) - Revisão.\
