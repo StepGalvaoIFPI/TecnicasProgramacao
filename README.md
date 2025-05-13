@@ -87,19 +87,24 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 [[atividade](https://drive.google.com/file/d/1HTUmAsJJpelGnAoL4mPOyxJbEIKcEs-A/view?usp=sharing)] \
 ~~:white_check_mark: 02/05 (Sex) - Feriado.~~ \
 :white_check_mark: 06/05 (Ter) - Correção das Atividades. \
-:black_square_button: 09/05 (Sex) - Estrutura aninhadas. \
-:black_square_button: 10/05 (Sab) - Correção da Atividade. \
-:black_square_button: 13/05 (Ter) - Revisão.\
-:black_square_button: **16/05 (Sex) - Segunda avaliação**
+:white_check_mark: 09/05 (Sex) - Else(Cont. aula passada) e Expressões Boolenas.
+[[slides](https://drive.google.com/file/d/1I4sM0hJrdHSYiVMDDlaTZucwwen0MnML/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1IXYHw33ZNxtquoxw8n6410ofES9koPrG/view?usp=sharing)] \
+:white_check_mark: 10/05 (Sab) - Correção da Atividade. \
+:white_check_mark: 13/05 (Ter) - If aninhado ELIF.
+[[slides](https://drive.google.com/file/d/1IieDiKPL6l5dCSmbf56Oi8fUkjR_ZQTe/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1IXYHw33ZNxtquoxw8n6410ofES9koPrG/view?usp=sharing)] 
 
+:black_square_button: 16/05 (Sex.) - Correção da Atividade. \
+:black_square_button: **20/05 (Ter) - Segunda avaliação**
 
-:black_square_button: 20/05 (Ter) - Estrutura de Repetição: While. \
-:black_square_button: 23/05 (Sex) - Correção da Atividade. \
-:black_square_button: 27/05 (Ter) - Estrutura de Repetição: For. \
-:black_square_button: 30/05 (Sex) - Correção da Atividade. \
-:black_square_button: 03/06 (Ter) - Acumuladores. \
-:black_square_button: 06/06 (Sex) - Correção da Atividade. \
-:black_square_button: **10/06 (Ter) - Terceira avaliação**
+:black_square_button: 23/05 (Sex) - Estrutura de Repetição: While. \
+:black_square_button: 27/05 (Ter) - Correção da Atividade. \
+:black_square_button: 30/05 (Sex) - Estrutura de Repetição: For. \
+:black_square_button: 03/06 (Ter) - Correção da Atividade. \
+:black_square_button: 06/06 (Sex) - Acumuladores. \
+:black_square_button: 10/06 (Ter) - Correção da Atividade. \
+:black_square_button: **13/06 (Sex) - Terceira avaliação**
 
 :black_square_button: 13/06 (Sex) - Lista: criação e manipulação.  
 :black_square_button: 17/06 (Ter) - Correção da atividade.  
