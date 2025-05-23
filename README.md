@@ -94,20 +94,19 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 13/05 (Ter) - If aninhado ELIF.
 [[slides](https://drive.google.com/file/d/1IieDiKPL6l5dCSmbf56Oi8fUkjR_ZQTe/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1IXYHw33ZNxtquoxw8n6410ofES9koPrG/view?usp=sharing)] 
+:white_check_mark: 16/05 (Sex) - Correção da Atividade. \
+:white_check_mark: **20/05 (Ter) - Segunda avaliação**
 
-:black_square_button: 16/05 (Sex.) - Correção da Atividade. \
-:black_square_button: **20/05 (Ter) - Segunda avaliação**
-
-:black_square_button: 23/05 (Sex) - Estrutura de Repetição: While. \
-:black_square_button: 27/05 (Ter) - Correção da Atividade. \
-:black_square_button: 30/05 (Sex) - Estrutura de Repetição: For. \
-:black_square_button: 03/06 (Ter) - Correção da Atividade. \
-:black_square_button: 06/06 (Sex) - Acumuladores. \
-:black_square_button: 10/06 (Ter) - Correção da Atividade. \
+:white_check_mark: 23/05 (Sex) - Atividade [[atividade](https://drive.google.com/file/d/1Lr3R9ccyrx9F735G6jybgjl_7sHt6-KO/view?usp=sharing)] \
+:black_square_button: 27/05 (Ter) - Estrutura de Repetição: While. \
+:black_square_button: 30/05 (Sex) - Correção da atividade \
+:black_square_button: 03/06 (Ter) - Estrutura de Repetição: For. \
+:black_square_button: 06/06 (Sex) - Correção da atividade \
+:black_square_button: 10/06 (Ter) - Acumuladores. \
 :black_square_button: **13/06 (Sex) - Terceira avaliação**
 
-:black_square_button: 13/06 (Sex) - Lista: criação e manipulação.  
-:black_square_button: 17/06 (Ter) - Correção da atividade.  
+
+:black_square_button: 17/06 (Ter) - Lista: criação e manipulação.  
 :black_square_button: ~~20/06 (Sex) - Feriado~~  
 :black_square_button: 24/06 (Ter) - Operações em lista.  
 :black_square_button: 27/06 (Sex) - Correção da atividade.  
