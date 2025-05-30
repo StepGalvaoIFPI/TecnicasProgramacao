@@ -98,7 +98,9 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: **20/05 (Ter) - Segunda avaliação**
 
 :white_check_mark: 23/05 (Sex) - Atividade [[atividade](https://drive.google.com/file/d/1Lr3R9ccyrx9F735G6jybgjl_7sHt6-KO/view?usp=sharing)] \
-:black_square_button: 27/05 (Ter) - Estrutura de Repetição: While. \
+:black_square_button: 27/05 (Ter) - Estrutura de Repetição: While.
+[[slides](https://drive.google.com/file/d/1OG5ZAfEjcQT5XOI804Tifd0378cM0kda/view?usp=sharing)]
+[[atividades](https://drive.google.com/file/d/1OUK6BfR0aqzhzo2OT3i7jRKXIAXqSvSu/view?usp=sharing)]
 :black_square_button: 30/05 (Sex) - Correção da atividade \
 :black_square_button: 03/06 (Ter) - Estrutura de Repetição: For. \
 :black_square_button: 06/06 (Sex) - Correção da atividade \
