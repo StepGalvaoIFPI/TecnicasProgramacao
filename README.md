@@ -93,7 +93,7 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 10/05 (Sab) - Correção da Atividade. \
 :white_check_mark: 13/05 (Ter) - If aninhado ELIF.
 [[slides](https://drive.google.com/file/d/1IieDiKPL6l5dCSmbf56Oi8fUkjR_ZQTe/view?usp=sharing)]
-[[atividade](https://drive.google.com/file/d/1IXYHw33ZNxtquoxw8n6410ofES9koPrG/view?usp=sharing)] 
+[[atividade](https://drive.google.com/file/d/1IXYHw33ZNxtquoxw8n6410ofES9koPrG/view?usp=sharing)]   
 :white_check_mark: 16/05 (Sex) - Correção da Atividade. \
 :white_check_mark: **20/05 (Ter) - Segunda avaliação**
 
