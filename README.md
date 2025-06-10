@@ -98,24 +98,25 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: **20/05 (Ter) - Segunda avaliação**
 
 :white_check_mark: 23/05 (Sex) - Atividade [[atividade](https://drive.google.com/file/d/1Lr3R9ccyrx9F735G6jybgjl_7sHt6-KO/view?usp=sharing)] \
-:black_square_button: 27/05 (Ter) - Estrutura de Repetição: While.
+:white_check_mark: 27/05 (Ter) - Prova de Segunda Chamada.  
+:white_check_mark: 30/05 (Sex) - Estrutura de Repetição: while
 [[slides](https://drive.google.com/file/d/1OG5ZAfEjcQT5XOI804Tifd0378cM0kda/view?usp=sharing)]
-[[atividades](https://drive.google.com/file/d/1OUK6BfR0aqzhzo2OT3i7jRKXIAXqSvSu/view?usp=sharing)]
-:black_square_button: 30/05 (Sex) - Correção da atividade \
-:black_square_button: 03/06 (Ter) - Estrutura de Repetição: For. \
-:black_square_button: 06/06 (Sex) - Correção da atividade \
-:black_square_button: 10/06 (Ter) - Acumuladores. \
-:black_square_button: **13/06 (Sex) - Terceira avaliação**
+[[atividades](https://drive.google.com/file/d/1OUK6BfR0aqzhzo2OT3i7jRKXIAXqSvSu/view?usp=sharing)]  
+:white_check_mark: 03/06 (Ter) Correção da atividade \
+:white_check_mark: 06/06 (Sex) - Estrutura de Repetição: For.
+[[slides](https://drive.google.com/file/d/1sDKbqozsozGfpFKiGlVXzEgfIdigMCJj/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1v5vrH74V7-alvriDW6SSuBktErruAMrI/view?usp=sharing)]  
+:white_check_mark: 10/06 (Ter) - Correção da atividade \
+:black_square_button: 13/06 (Sex) - Acumuladores. \
+:black_square_button: **17/06 (Ter) - Terceira avaliação**
 
-
-:black_square_button: 17/06 (Ter) - Lista: criação e manipulação.  
 :black_square_button: ~~20/06 (Sex) - Feriado~~  
-:black_square_button: 24/06 (Ter) - Operações em lista.  
-:black_square_button: 27/06 (Sex) - Correção da atividade.  
-:black_square_button: 28/06 (Sab) - Atividade em classe.  
+:black_square_button: 24/06 (Ter) - Lista: criação e manipulação.  
+:black_square_button: 27/06 (Sex) - Operações em lista.  
+:black_square_button: 28/06 (Sab) - Correção da atividade.  
+:black_square_button: 01/07 (Ter) - Atividade em classe.  
 :black_square_button: 01/07 (Ter) - Percorrendo lista.  
-:black_square_button: 04/07 (Sex) - Correção da atividade  
-:black_square_button: 05/07 (Sab) - Revisão.  
+:black_square_button: 05/07 (Sab) - Correção da atividade  
 :black_square_button: **08/07 (Ter) - Quarta avaliação**  
 
 :black_square_button: 11/07 (Sex) - Funcão: definição e execução.  
@@ -123,7 +124,7 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :black_square_button: 15/07 (Ter) - Função:Parâmentros.  
 :black_square_button: 18/07 (Sex) - Correção da atividade.  
 :black_square_button: 22/07 (Ter) - Função: com retorno.   
-:black_square_button: ~~25/07 (Sex) - Pessoal.~~  
+:black_square_button: ~~25/07 (Sex) -Compromisso Pessoal.~~  
 :black_square_button: 29/07 (Ter) - Correção da atividade.  
 :black_square_button: 01/08 (Sex) - Variavel global e local.  
 :black_square_button: 05/08 (Ter) - Correção da atividade.  
