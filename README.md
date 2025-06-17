@@ -108,7 +108,8 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 [[atividade](https://drive.google.com/file/d/1v5vrH74V7-alvriDW6SSuBktErruAMrI/view?usp=sharing)]  
 :white_check_mark: 10/06 (Ter) - Correção da atividade \
 :white_check_mark: 13/06 (Sex) - Acumuladores. \
-:white_check_mark: 17/06 (Ter) - Exercício  
+:white_check_mark: 17/06 (Ter) - Exercício.
+[[atividade](https://drive.google.com/file/d/1Zc-LznJTM9r_W9Gqa0i_EL1BHynqwhG-/view?usp=sharing)]   
 :black_square_button: ~~20/06 (Sex) - Feriado~~  
 :black_square_button: **24/06 (Ter) - Terceira avaliação**  
 
