@@ -110,29 +110,33 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 13/06 (Sex) - Acumuladores. \
 :white_check_mark: 17/06 (Ter) - Exercício.
 [[atividade](https://drive.google.com/file/d/1Zc-LznJTM9r_W9Gqa0i_EL1BHynqwhG-/view?usp=sharing)]   
-:black_square_button: ~~20/06 (Sex) - Feriado~~  
-:black_square_button: **24/06 (Ter) - Terceira avaliação**  
+:white_check_mark: ~~20/06 (Sex) - Feriado~~  
+:white_check_mark: **24/06 (Ter) - Terceira avaliação**  
 
-**Em atualização**  
-:black_square_button: 27/06 (Sex) - Lista: criação e manipulação.  
-:black_square_button: 28/06 (Sab) - Operações em lista.  
-:black_square_button: 01/07 (Ter) - Correção da atividade.  
-:black_square_button: 04/07 (Sex) - Atividade em classe.  
-:black_square_button: 05/07 (Sab) - Percorrendo lista.  
-:black_square_button: 08/07 (Ter) - Correção da atividade  
-:black_square_button: **11/07 (Sex) - Quarta avaliação**  
 
-:black_square_button: 11/07 (Sex) - Funcão: definição e execução.  
-:black_square_button: 14/07 (Sab) - Correção da Atividade.  
-:black_square_button: 15/07 (Ter) - Função:Parâmentros.  
-:black_square_button: 18/07 (Sex) - Correção da atividade.  
-:black_square_button: 22/07 (Ter) - Função: com retorno.   
+:white_check_mark: 27/06 (Sex) - Funcão: definição e execução.
+[[slides](https://drive.google.com/file/d/1GoWOhJhzKan0XBUEWEFU8oKvRlNo-jKd/view?usp=sharing)]
+[[atividades](https://drive.google.com/file/d/1WLyGSf9oVl2voLCCLqJ7cPj28eAnXi1D/view?usp=sharing)].  
+:black_square_button: 28/06 (Sab) - Atividade.  
+:black_square_button: 01/07 (Ter) - Correção da Atividade.  
+:black_square_button: 04/07 (Sex) - Funcão: Parte II.  
+:black_square_button: 05/07 (Sab) - Segunda chamada da Prova II.     
 :black_square_button: ~~25/07 (Sex) -Compromisso Pessoal.~~  
-:black_square_button: 29/07 (Ter) - Correção da atividade.  
-:black_square_button: 01/08 (Sex) - Variavel global e local.  
-:black_square_button: 05/08 (Ter) - Correção da atividade.  
-:black_square_button: **08/08 (Sex) - Quinta Avaliação**\
-:black_square_button: **12/08 (Ter) - Prova Final**
+:black_square_button: 08/07 (Ter) - Correção da atividade.  
+:black_square_button: 11/07 (Sex) - Variavel global e local.  
+:black_square_button: 15/07 (Ter) - Correção da atividade.  
+:black_square_button: 18/07 (Sex) - Projeto (Trabalho Final) - Parte I.  
+:black_square_button: **22/07 (Ter) - Quarta avaliação.** 
+
+:black_square_button: 25/07 (Sex) - Lista: criação e manipulação.  
+:black_square_button: 29/07 (Ter) - Atividade.  
+:black_square_button: 01/08 (Sex) - Operações em lista.  
+:black_square_button: 05/08 (Ter) - Atividade.  
+:black_square_button: 08/08 (Sex) - Percorrendo lista.  
+:black_square_button: 12/08 (Ter) - Correção da atividade  
+:black_square_button: **14/08 (Qui) - Quarta avaliação**  
+
+:black_square_button: **15/08 (Sex) - Prova Final**
 
 ---
 ## :rocket: Projetos ( :construction: Em construção)  
