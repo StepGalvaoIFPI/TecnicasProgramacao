@@ -117,11 +117,12 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 27/06 (Sex) - Funcão: definição e execução.
 [[slides](https://drive.google.com/file/d/1GoWOhJhzKan0XBUEWEFU8oKvRlNo-jKd/view?usp=sharing)]
 [[atividades](https://drive.google.com/file/d/1WLyGSf9oVl2voLCCLqJ7cPj28eAnXi1D/view?usp=sharing)].  
-:black_square_button: 28/06 (Sab) - Atividade.  
-:black_square_button: 01/07 (Ter) - Correção da Atividade.  
-:black_square_button: 04/07 (Sex) - Funcão: Parte II.  
-:black_square_button: 05/07 (Sab) - Segunda chamada da Prova II.     
-:black_square_button: ~~25/07 (Sex) -Compromisso Pessoal.~~  
+:white_check_mark: 28/06 (Sab) - Atividade.  
+:white_check_mark: 01/07 (Ter) - Correção da Atividade e da Avaliação.  
+:white_check_mark: 04/07 (Sex) - Funcão: Parte II.
+[[atividade]([[atividade](https://drive.google.com/file/d/1yr3SlXW2HY-opBuopaZUnzErHAwRSAvA/view?usp=sharing)]
+)].  
+:white_check_mark: 05/07 (Sab) - Segunda chamada da Prova II.     
 :black_square_button: 08/07 (Ter) - Correção da atividade.  
 :black_square_button: 11/07 (Sex) - Variavel global e local.  
 :black_square_button: 15/07 (Ter) - Correção da atividade.  
@@ -140,11 +141,9 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 
 ---
 ## :rocket: Projetos ( :construction: Em construção)  
-**Selenium:**
-- Utilizar a ferramenta selenium para web scraping
 
-**Microbit:**
-- Utilizar o simulador da placa microbit para fazer projetos
+**ESP32:**
+- Utilizar o simulador da placa esp32 para fazer projetos.
 
 
 ---
