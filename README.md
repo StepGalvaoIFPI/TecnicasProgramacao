@@ -122,9 +122,11 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 04/07 (Sex) - Funcão: Parte II.
 [[atividade](https://drive.google.com/file/d/1yr3SlXW2HY-opBuopaZUnzErHAwRSAvA/view?usp=sharing)].  
 :white_check_mark: 05/07 (Sab) - Atividade ce Classe.     
-:black_square_button: 08/07 (Ter) - Correção da atividade.  
-:black_square_button: 11/07 (Sex) - Variavel global e local.  
-:black_square_button: 15/07 (Ter) - Correção da atividade.  
+:white_check_mark: 08/07 (Ter) - Correção da atividade.  
+:white_check_mark: 11/07 (Sex) - Variavel global e local
+[[slides](https://drive.google.com/file/d/1W1ZA7QsRyVdc3etVchy2je8_oTvYpS62/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1ihuKV7Mt4W-nDqCcFsKwpatMMZTk2lSx/view?usp=sharing)].   
+:white_check_mark: 15/07 (Ter) - Correção da atividade.  
 :black_square_button: 18/07 (Sex) - Projeto (Trabalho Final) - Parte I.  
 :black_square_button: **22/07 (Ter) - Quarta avaliação.** 
 
