@@ -95,7 +95,7 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 [[slides](https://drive.google.com/file/d/1IieDiKPL6l5dCSmbf56Oi8fUkjR_ZQTe/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1IXYHw33ZNxtquoxw8n6410ofES9koPrG/view?usp=sharing)]   
 :white_check_mark: 16/05 (Sex) - Correção da Atividade. \
-:white_check_mark: **20/05 (Ter) - Segunda avaliação**
+:white_check_mark: 20/05 (Ter) - Correção da Atividade.
 
 :white_check_mark: 23/05 (Sex) - Atividade [[atividade](https://drive.google.com/file/d/1Lr3R9ccyrx9F735G6jybgjl_7sHt6-KO/view?usp=sharing)] \
 :white_check_mark: 27/05 (Ter) - Prova de Segunda Chamada.  
@@ -126,19 +126,19 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 11/07 (Sex) - Variavel global e local
 [[slides](https://drive.google.com/file/d/1W1ZA7QsRyVdc3etVchy2je8_oTvYpS62/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1ihuKV7Mt4W-nDqCcFsKwpatMMZTk2lSx/view?usp=sharing)].   
-:white_check_mark: 15/07 (Ter) - Correção da atividade.  
-:black_square_button: 18/07 (Sex) - Projeto (Trabalho Final) - Parte I.  
-:black_square_button: **22/07 (Ter) - Quarta avaliação.** 
+:white_check_mark: 15/07 (Ter) - Revisão.  
+:white_check_mark: 18/07 (Sex) - Prática ESP32.  
+:white_check_mark: 22/07 (Ter) - Prática ESP32.  
+~~:white_check_mark: 25/07 (Sex) - Compromisso pessoal.~~  
+:white_check_mark: **29/07 (Ter) - Quarta avaliação.**
 
-:black_square_button: 25/07 (Sex) - Lista: criação e manipulação.  
-:black_square_button: 29/07 (Ter) - Atividade.  
-:black_square_button: 01/08 (Sex) - Operações em lista.  
-:black_square_button: 05/08 (Ter) - Atividade.  
-:black_square_button: 08/08 (Sex) - Percorrendo lista.  
-:black_square_button: 12/08 (Ter) - Correção da atividade  
-:black_square_button: **14/08 (Qui) - Quarta avaliação**  
 
-:black_square_button: **15/08 (Sex) - Prova Final**
+:black_square_button: 01/08 (Sex) - Lista Introdução.  
+:black_square_button: 05/08 (Ter) - Lista Operações.  
+:black_square_button: 08/08 (Sex) - Correção da atividade & Trabalho Final.  
+:black_square_button: **12/08 (Ter) - Entrega do Trabalho e Segunda Chamada**.  
+
+:black_square_button: **14/08 (Qui) - Prova Final**  
 
 ---
 ## :rocket: Projetos ( :construction: Em construção)  
