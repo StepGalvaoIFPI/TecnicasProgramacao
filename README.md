@@ -144,7 +144,7 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: 01/08 (Sex) - Lista Introdução.
 [[slides](https://drive.google.com/file/d/1atciNl_8N0J74Hen9hY_ac2T9JEs3Kb8/view?usp=sharing)]
 [[atividades](https://drive.google.com/file/d/1H3MBXdSJix-RVvoZ53T9WgKXAXixa031/view?usp=sharing)].   
-:black_square_button: 05/08 (Ter) - Lista Atividades[[Atividade] (https://drive.google.com/file/d/1OYjRd8Tf5TPimSH3d8rjq8TfofrFxV10/view?usp=sharing)].  
+:black_square_button: 05/08 (Ter) - Lista Atividades [[Atividade](https://drive.google.com/file/d/1OYjRd8Tf5TPimSH3d8rjq8TfofrFxV10/view?usp=sharing)].  
 :black_square_button: 08/08 (Sex) - Correção da atividade & Trabalho Final.  
 :black_square_button: **12/08 (Ter) - Entrega do Trabalho e Segunda Chamada**.  
 
