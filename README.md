@@ -1,5 +1,13 @@
 # 👨‍💻 Técnicas de Programação
 
+## ⚠️ Atenção (04/08/2025) ⚠️
+Aconteceu uma atualização no meu google drive e alguns links podem não estar funcionando.
+Por isso, estou disponibilizando o link da pasta de slides e de atividades, caso queriam ver os slides e as atividades antigas
+
+[Slides](https://drive.google.com/drive/folders/1G7rVWLN9XXjpd3FTltotSibEg0_71omC?usp=sharing)
+
+[Atividades](https://drive.google.com/drive/folders/1oEF9wmuA7j7GSJfw8eI1xN5xAM-kK6zB?usp=sharing)
+
 ## 📘 Ementa
 Fundamentos de lógica de programação. Estrutura de um programa; Instruções de saída; Variáveis; Instrução de entrada; Estrutura de Decisão; Estrutura de Repetição; e Subprogramas.
 
@@ -133,8 +141,10 @@ Apresentar os principais conceitos das linguagens de programação de forma proc
 :white_check_mark: **29/07 (Ter) - Quarta avaliação.**
 
 
-:black_square_button: 01/08 (Sex) - Lista Introdução.  
-:black_square_button: 05/08 (Ter) - Lista Operações.  
+:white_check_mark: 01/08 (Sex) - Lista Introdução.
+[[slides](https://drive.google.com/file/d/1atciNl_8N0J74Hen9hY_ac2T9JEs3Kb8/view?usp=sharing)]
+[[atividades](https://drive.google.com/file/d/1H3MBXdSJix-RVvoZ53T9WgKXAXixa031/view?usp=sharing)].   
+:black_square_button: 05/08 (Ter) - Lista Atividades[[Atividade] (https://drive.google.com/file/d/1OYjRd8Tf5TPimSH3d8rjq8TfofrFxV10/view?usp=sharing)].  
 :black_square_button: 08/08 (Sex) - Correção da atividade & Trabalho Final.  
 :black_square_button: **12/08 (Ter) - Entrega do Trabalho e Segunda Chamada**.  
 
